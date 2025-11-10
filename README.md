@@ -1,5 +1,7 @@
 # VF_biometals2025
 
+[![DOI](https://zenodo.org/badge/1093823889.svg)](https://doi.org/10.5281/zenodo.17576125)
+
 Data for a Biometals publication.
 
 **Optimization Files Index**:
